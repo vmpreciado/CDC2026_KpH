@@ -14,12 +14,12 @@ while maintaining exact passivity by construction.
 ## Citation
 
 ```bibtex
-@inproceedings{preciado2025kph,
+@inproceedings{preciado2026kph,
   author    = {Victor M. Preciado},
   title     = {A Koopman-Port-Hamiltonian Framework for
                Data-Driven Modeling and Control},
-  booktitle = {IEEE Conference on Decision and Control (CDC)},
-  year      = {2025}
+  booktitle = {submitted to IEEE Conference on Decision and Control (CDC)},
+  year      = {2026}
 }
 ```
 
@@ -77,4 +77,4 @@ KpH-EDMD/
 
 ## License
 
-MIT License. Copyright (c) 2025 Victor M. Preciado.
+MIT License. Copyright (c) 2026 Victor M. Preciado.
